@@ -1,0 +1,12 @@
+C:\Users\KerimEnesAksehir\source\repos\proje_araç_satış\proje_araç_satış\bin\Debug\proje_araç_satış.exe.config
+C:\Users\KerimEnesAksehir\source\repos\proje_araç_satış\proje_araç_satış\bin\Debug\proje_araç_satış.exe
+C:\Users\KerimEnesAksehir\source\repos\proje_araç_satış\proje_araç_satış\bin\Debug\proje_araç_satış.pdb
+C:\Users\KerimEnesAksehir\source\repos\proje_araç_satış\proje_araç_satış\obj\Debug\proje_araç_satış.csproj.AssemblyReference.cache
+C:\Users\KerimEnesAksehir\source\repos\proje_araç_satış\proje_araç_satış\obj\Debug\proje_araç_satış.csproj.SuggestedBindingRedirects.cache
+C:\Users\KerimEnesAksehir\source\repos\proje_araç_satış\proje_araç_satış\obj\Debug\proje_araç_satış.Properties.Resources.resources
+C:\Users\KerimEnesAksehir\source\repos\proje_araç_satış\proje_araç_satış\obj\Debug\proje_araç_satış.csproj.GenerateResource.cache
+C:\Users\KerimEnesAksehir\source\repos\proje_araç_satış\proje_araç_satış\obj\Debug\proje_araç_satış.csproj.CoreCompileInputs.cache
+C:\Users\KerimEnesAksehir\source\repos\proje_araç_satış\proje_araç_satış\obj\Debug\proje_araç_satış.exe
+C:\Users\KerimEnesAksehir\source\repos\proje_araç_satış\proje_araç_satış\obj\Debug\proje_araç_satış.pdb
+C:\Users\KerimEnesAksehir\source\repos\proje_araç_satış\proje_araç_satış\obj\Debug\proje_araç_satış.Form2.resources
+C:\Users\KerimEnesAksehir\source\repos\proje_araç_satış\proje_araç_satış\obj\Debug\proje_araç_satış.Form3.resources
